@@ -2,4 +2,19 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="toolbar_color">#FF9E6AFA</color>
+    <color name="nav_header"></color>
+
+
+    <color name="dashboard_color">#20838F</color>
+
+    <color name="income_color">#C80648</color>
+
+    <color name="expense_color">#935D0D</color>
+
+    <color name="date_color">#FF270648</color>
+
+    <color name="expense_amount_color">#FFEC1D06</color>
+
+
 </resources>
